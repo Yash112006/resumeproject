@@ -97,7 +97,6 @@
             <!-- Add your profile picture here -->
             <img src="propic.jpg" alt="Your Profile Picture" class="profile-picture">
             <h1>p.yasmiga</h1>
-            <p>ASSISTANT PROFESSOR</p>
         </div>
     </header>
 
@@ -115,7 +114,7 @@
     <section id="about">
         <div class="section-content">
             <h2>About Me</h2>
-            <p>A seasoned Assistant Professor of Computer Science, well-versed in the digital realms. On the lookout for an Assistant Professor role where I can harness my teaching prowess, research acumen, and programming expertise to nurture the next generation of computer scientists and enrich the academic landscape.</p>
+            <p> leaning.</p>
         </div>
     </section>
 
@@ -168,7 +167,7 @@
     </section>
 
     <footer>
-        <p>&copy; 2025 RESHMA</p>
+        <p>&copy; 2026 p.yasmiga</p>
     </footer>
 
     <script>
